@@ -1,8 +1,7 @@
 ---
 title: "Will the liberals win the next Canadian federal election: a mutilevel multiple regression analysis on voting in Canada "
-author: "GROUP NUMBER 78: Chun Ki Yip, Jiayi Chen, Nicole Zi Xuan Yeung"
+author: Chun Ki Yip, Jiayi Chen, Nicole Zi Xuan Yeung"
 date: November 5, 2021
-subtitle: STA304 - Assignment 3
 output:
   pdf_document: default
 ---
