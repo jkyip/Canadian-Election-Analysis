@@ -4,7 +4,7 @@ Welcome to the Canadian Election Prediction Analysis repository. This project ai
 
 ## Data Sources
 
-- **General Social Survey (GSS)** Census data offers demographic insights such as income, age, gender, province, education, and minority status. Census Data is obtained from the CHASS website
+- **General Social Survey (GSS)** Census data offers demographic insights such as income, age, gender, province, education, and minority status. Census Data is obtained from the CHASS website.
 
 - **Canadian Election Study (CES)**: Data provides information on voter behavior. Combining multi-level multiple logistic regression and post-stratification, this analysis aims to predict the outcome of the next Canadian Federal Election and identify potential voter patterns and party performance. Data can be accessed through resources provided by the CES project and its documentation.
 
@@ -12,4 +12,16 @@ Welcome to the Canadian Election Prediction Analysis repository. This project ai
 
 Our analysis concludes that the Liberals' projected vote percentage challenges expectations, potentially indicating a change in government power. The prediction, around 20%, deviates significantly from Justin Trudeau's 31.5% victory in the 2021 Election. Thus, we reject the initial hypothesis of the Liberals maintaining power. This analysis offers insights for future election predictions and campaign strategies. Despite limitations, this model provides a solid foundation for predicting election outcomes and guiding political campaigns.
 
-For a comprehensive understanding of our methodologies, results, and conclusions, please refer to the complete report in the [PDF format](link-to-pdf).
+For a comprehensive understanding of our methodologies, results, and conclusions, please refer to the complete report in [PDF format](https://github.com/jkyip/Canadian-Election-Analysis/blob/main/Canadian-Election-Analysis.pdf).
+
+## MIT License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to us:
+
+- [Chun Ki Yip](jackyyipchunki@gmail.com)
+
+We welcome your contributions and feedback!
